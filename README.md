@@ -1,2 +1,1 @@
-# crapbag
-This readme file is edited from the git cli eidtor
+The time this file was edited the branch selected was mygitclibranch
